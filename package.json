@@ -1,0 +1,14 @@
+{
+  "name": "shutbox",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "*",
+    "bcryptjs": "*",
+    "redis": "0.7.2"
+  }
+}
